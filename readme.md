@@ -61,7 +61,7 @@ The project structure is organized to separate concerns and make the codebase ma
 
 ## Contact
 
-Feel free to reach out to me through the contact form on the website or by emailing me at [zaeemaliramay@gmail.com].
+Feel free to reach out to me through the contact form on the website or by emailing me at [dev.shahzad.hussain@gmail.com].
 
 ---
 
