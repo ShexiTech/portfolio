@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://shexitech.io/portfolio",
+  "homepage": "https://shexitech.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -51,6 +51,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
