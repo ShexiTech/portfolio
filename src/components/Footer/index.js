@@ -90,7 +90,7 @@ function Footer() {
     <FooterContainer>
       <FooterWrapper>
         <img src={NavBarIcon} /> 
-        <Logo>Zaeem Liaqat</Logo>
+        <Logo>Shahzad Hussain</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
