@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/portfolio/static/js/main.a460c0c9.js",
+    "main.js": "/portfolio/static/js/main.db32ecae.js",
     "static/media/theoodie.png": "/portfolio/static/media/theoodie.04d11c23b450e719a2a6.png",
+    "static/media/billionaire.png": "/portfolio/static/media/billionaire.a8ab06e54d66ad5280a1.png",
     "static/media/security-website.png": "/portfolio/static/media/security-website.0a544eb11169cc73bbd3.png",
     "static/media/stay-alert.png": "/portfolio/static/media/stay-alert.3c8c51381fcbbd4a9c20.png",
     "static/media/comm-website.png": "/portfolio/static/media/comm-website.271ce245bdd3570f4732.png",
     "static/media/crm.png": "/portfolio/static/media/crm.23ec8f33a52d8e910499.png",
-    "static/media/AEODPS.png": "/portfolio/static/media/AEODPS.10ebab9e2bce7a3b9c91.png",
     "static/media/cms.png": "/portfolio/static/media/cms.f601c95ea422999fae30.png",
     "static/media/training.png": "/portfolio/static/media/training.91567cc71edd59bf5dc8.png",
     "static/media/job.png": "/portfolio/static/media/job.c15853e84cb63739e5c8.png",
@@ -23,10 +23,10 @@
     "static/media/laravel.png": "/portfolio/static/media/laravel.0848e19729a177c5c8bc.png",
     "index.html": "/portfolio/index.html",
     "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
-    "main.a460c0c9.js.map": "/portfolio/static/js/main.a460c0c9.js.map"
+    "main.db32ecae.js.map": "/portfolio/static/js/main.db32ecae.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.a460c0c9.js"
+    "static/js/main.db32ecae.js"
   ]
 }
