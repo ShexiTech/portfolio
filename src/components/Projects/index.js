@@ -32,6 +32,12 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="android app" onClick={() => setToggle('codeigniter')}>CodeIgniter</ToggleButton>
           }
+          <Divider />
+          {toggle === 'shopify' ?
+            <ToggleButton active value="android app" onClick={() => setToggle('shopify')}>Shopify</ToggleButton>
+            :
+            <ToggleButton value="android app" onClick={() => setToggle('shopify')}>Shopify</ToggleButton>
+          }
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
